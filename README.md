@@ -1,1 +1,2 @@
-# Python Practice
+# Python
+simple utility for sending an email
